@@ -2,7 +2,7 @@ import Fastify from 'fastify'
 
 const app = Fastify()
 
-app.get('hello', () => {
+app.get('/hello', () => {
   return 'Hello World'
 })
 
