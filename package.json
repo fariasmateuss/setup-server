@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fariasmateuss/setup-server/issues"
   },
-  "homepage": "https://github.com/fariasmateuss/setup-server#readme"
+  "homepage": "https://github.com/fariasmateuss/setup-server#readme",
+  "dependencies": {
+    "fastify": "^4.11.0"
+  }
 }
